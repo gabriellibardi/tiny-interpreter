@@ -1,3 +1,8 @@
 fn main() {
-    println!("Hello, World!");
+    let program = "";
+    analyze(program);
+}
+
+fn analyze(program: &str) {
+    
 }
